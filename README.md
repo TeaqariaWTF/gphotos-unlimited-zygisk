@@ -8,7 +8,7 @@ Adds Photos features and unlimited original backup
 </p>
 
 # Introduction 
-This module will spoof your device info to Pixel XL on Google apps and Google Photos to get unlimited backup storage at original quality
+Based from Pixelify GitHub. This module will spoof your device info to Pixel XL on Google apps and Google Photos to get unlimited backup storage at original quality
 
 # Warning !
 Module will only works with Zygisk, it will not run with Riru, Shamiko, etc !!
