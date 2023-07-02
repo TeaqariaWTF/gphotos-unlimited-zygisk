@@ -7,6 +7,12 @@ Adds Photos features and unlimited original backup
 
 </p>
 
+# Introduction 
+This module will spoof your device info to Pixel XL on Google apps and Google Photos to get unlimited backup storage at original quality
+
+# Warning !
+Module will only works with Zygisk, it will not run with Riru, Shamiko, etc !!
+
 # Usage 
 [Download zip from repository](https://github.com/cuynu/gphotos-unlimited-magisk/archive/refs/heads/master.zip) or [release page](https://github.com/cuynu/gphotos-unlimited-magisk/releases), enable Zygisk then install with Magisk v24.3+ and reboot
 
