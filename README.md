@@ -12,6 +12,7 @@ Based from Pixelify GitHub. This module will spoof your device info to Pixel XL 
 
 # Warning !
 Module will only works with Zygisk, it will not run with Riru, Shamiko, etc !!
+Some modules could break and prevent this module from running, if module does not work, try disable some modules and see
 
 # Usage 
 [Download zip from repository](https://github.com/cuynu/gphotos-unlimited-magisk/archive/refs/heads/master.zip) or [release page](https://github.com/cuynu/gphotos-unlimited-magisk/releases), enable Zygisk then install with Magisk v24.3+ and reboot
