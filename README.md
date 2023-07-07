@@ -12,6 +12,7 @@ Based from Pixelify GitHub. This module will spoof your device info to Pixel XL 
 
 # Warning !
 Module will only works with Zygisk, it will not run with Riru, Shamiko, etc !!
+
 Some modules could break and prevent this module from running, if module does not work, try disable some modules and see
 
 # Usage 
