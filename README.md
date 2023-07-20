@@ -7,6 +7,10 @@ Adds Photos features and unlimited original backup
 
 </p>
 
+### [Переключиться на русский язык](https://github.com/cuynu/gphotos-unlimited-zygisk/wiki/RU)
+
+### [Chuyển ngôn ngữ Tiếng Việt](https://github.com/cuynu/gphotos-unlimited-zygisk/wiki/VI)
+
 # Introduction 
 Based from Pixelify GitHub. This module will spoof your device info to Pixel XL on Google apps and Google Photos to get unlimited backup storage at original quality
 
