@@ -7,7 +7,10 @@ Adds Photos features and unlimited original backup
 
 </p>
 
-### [Donate this project (Not required)](#donations)
+### Donate this project (Not required)
+
+ <p align="left">
+    <a href="https://github.com/sponsors/cuynu"><img src="https://img.shields.io/badge/Support%20Project-%E2%9D%A4-%23db61a2.svg?&logo=github&logoColor=white&labelColor=181717&style=flat-square" alt="Badage"></img></a>
 
 ### [Переключиться на русский язык](https://github.com/cuynu/gphotos-unlimited-zygisk/wiki/RU)
 
@@ -31,15 +34,3 @@ Download module from [release page](https://github.com/cuynu/gphotos-unlimited-m
 `git clone https://github.com/cuynu/gphotos-unlimited-magisk.git`
 
 Import folder zygisk_build to Android Studio or Gradle and build then copy compiled zygisk library to zygisk folder (not zygisk_build)
-
-# Donations
-**Disclaimer** : **Donation is NOT REQUIRED**, you have the right to decide whether to donate or not, it's your decision. **NO DRAMA AT ALL!**
-
-Currently, no PayPal or international donation method available yet. If you want to donate me, use **Super Thanks** feature on YouTube instead (remember use original YouTube app to use this feature.)
-
-<a href="https://m.youtube.com/watch?v=0oClepts_2g">
-<img alt="YouTube Vanced+ logo" src="https://github.com/cuynu/cuynu/assets/90895715/ccbfec4a-a0e1-4509-8471-3368a4eed9b7" width="300" height="300" />
-</a>
-
-## Vietnam inland donation :
-**Chuyển khoản tới Momo & MB : 0395923562**
