@@ -1,6 +1,6 @@
 id=PixelifyPhotos
 name=Google Photos Unlimited backup
-version=1.0-beta
-versionCode=001
+version=1.1-stable
+versionCode=002
 author=cuynu
-description=Adds Photos features and unlimited Google Photos original backup.
+description=Adds Photos features and unlimited Google Photos original backup quality by spoof device info to Pixel XL only on Photos app.
