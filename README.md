@@ -36,7 +36,7 @@ Some modules could break and prevent this module from running, if module does no
 # Usage 
 Download module from [release page](https://github.com/cuynu/gphotos-unlimited-zygisk/releases), enable Zygisk then install with Magisk v24.3+ and reboot
 
-- Tested on : ``Magisk v24.3+`` ``Magisk Delta`` ``KernelSU`` (Zygisk)
+- Tested with : ``Magisk v24.3+`` ``Magisk Delta`` ``KernelSU`` (Zygisk)
 
 # Known issues 
 - **Some Xiaomi devices with MIUI 14 when this module is active, its will cause Bootloop with SystemUI crash exception**
