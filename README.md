@@ -2,10 +2,13 @@
 Adds Photos features and unlimited original backup
 
 <a href="https://github.com/cuynu/gphotos-unlimited-zygisk#usage">
-<img alt="DEMO" src="https://github.com/cuynu/gphotos-unlimited-zygisk/assets/90895715/154b2d25-6341-4131-a70f-99a8a0d1740e" width="300" height="300" />
+<img alt="DEMO" src="https://github.com/cuynu/gphotos-unlimited-zygisk/assets/90895715/060fe7e7-3e75-4991-9521-beba6589bfa2" width="300" height="270" />
 </a>
 
 </p>
+
+![Screenshot_2023-11-06-08-13-45-47_965bbf4d18d205f782c6b8409c5773a4~2](https://github.com/cuynu/gphotos-unlimited-zygisk/assets/90895715/305700fc-79cb-4391-a038-0da186a66759)
+
 
 Current version : **1.1-stable**
 
