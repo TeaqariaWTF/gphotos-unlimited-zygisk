@@ -40,7 +40,7 @@ Download module from [release page](https://github.com/cuynu/gphotos-unlimited-z
 
 # Known issues 
 - **Some Xiaomi devices with MIUI 14 when this module is active, its will cause Bootloop with SystemUI crash exception**
-- Module are conflict with Magisk-GApps module
+- When use together with `Magisk-GApps` module, it will conflict and cause lose the ability to backup unlimited at original quality (Still able to backup unlimited at storage saver quality)
 
 # Build zygisk library
 `git clone https://github.com/cuynu/gphotos-unlimited-magisk.git`
