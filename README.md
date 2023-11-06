@@ -1,10 +1,17 @@
 # Google Photos unlimited backup module
 Adds Photos features and unlimited original backup
 
-![Screenshot_2023-11-06-08-12-10-40_965bbf4d18d205f782c6b8409c5773a4~2](https://github.com/cuynu/gphotos-unlimited-zygisk/assets/90895715/ac4b0200-88f2-4082-b8cb-44d7742258e2)
+<a href="https://github.com/cuynu/gphotos-unlimited-zygisk#usage">
+<img alt="DEMO" src="https://github.com/cuynu/gphotos-unlimited-zygisk/assets/90895715/ac4b0200-88f2-4082-b8cb-44d7742258e2" width="350" height="350" />
+</a>
 
+</p>
 
-![Screenshot_2023-11-06-08-13-45-47_965bbf4d18d205f782c6b8409c5773a4~2](https://github.com/cuynu/gphotos-unlimited-zygisk/assets/90895715/305700fc-79cb-4391-a038-0da186a66759)
+<a href="https://github.com/cuynu/gphotos-unlimited-zygisk#usage">
+<img alt="DEMO" src="https://github.com/cuynu/gphotos-unlimited-zygisk/assets/90895715/305700fc-79cb-4391-a038-0da186a66759" width="350" height="350" />
+</a>
+
+</p>
 
 
 Current version : **1.1-stable**
