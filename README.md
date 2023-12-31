@@ -16,6 +16,10 @@ Adds Photos features and unlimited original backup
 
 Current version : **1.1-stable**
 
+## GLOBAL
+## DUE TO STUPID 2FA AUTHENTICATION OF GITHUB, WE HAVE MIGRATED ALL PROJECT TO GITLAB, TO RECEIVE NEW UPDATES OR ANY CHANGES IN THE FUTURE, GO TO THIS : [GitLab cuynu/gphotos-unlimited-zygisk](https://gitlab.com/cuynu/gphotos-unlimited-zygisk)
+
+
 ### Donate this project (Not required)
 
  <p align="left">
